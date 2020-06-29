@@ -1,0 +1,17 @@
+.idea/*
+*/pycache/*
+*.pyc
+__init__.py
+*.pyc
+*.DS_Store
+.Rproj.user
+.RData
+.Rhistory
+TimeToRead.Rproj
+env/*
+**/ELMo/*
+**/XLNet/*
+**/RoBERTa/*
+**/rnn_trained/*
+**/pooled*/*
+src/data/article_texts/*
